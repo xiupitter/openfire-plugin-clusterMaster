@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>com.xiupitter.master.MasterPlugin</class>
+    <name>${plugin.name}</name>
+    <description>${plugin.description}</description>
+    <author>xiupitter</author>
+    <version>1.0.6</version>
+    <date>06/04/2013</date>
+    <minServerVersion>3.7.4</minServerVersion>
+    <parentPlugin>hazelcast</parentPlugin>
+</plugin>
